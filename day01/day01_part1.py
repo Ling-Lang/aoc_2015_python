@@ -8,6 +8,7 @@ def main():
         if element == ")":
             floor -= 1
     print(floor)
+    f.close()
 
 if __name__ == "__main__":
     main()

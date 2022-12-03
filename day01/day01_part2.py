@@ -13,7 +13,7 @@ def main():
         if floor == -1:
             break ;
     print(index)
-
+    f.close()
 if __name__ == "__main__":
     main()
 else:
